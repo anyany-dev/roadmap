@@ -6,11 +6,15 @@
   <p>Uma experiência interativa para organizar estudos, acompanhar o progresso e construir uma jornada sólida em análise de dados.</p>
 
   <p>
-    <a href="#sobre-o-projeto">Sobre</a> ·
-    <a href="#recursos">Recursos</a> ·
-    <a href="#executando-localmente">Executar</a> ·
-    <a href="#estrutura-do-projeto">Estrutura</a> ·
-    <a href="#qualidade-e-seguranca">Qualidade</a>
+    <a href="https://anyany-dev.github.io/roadmap/"><img src="docs/assets/readme/link-open-roadmap.svg" alt="Abrir o AnyRoadmap" /></a>
+  </p>
+
+  <p>
+    <a href="#sobre-o-projeto"><img src="docs/assets/readme/link-about.svg" alt="Sobre" /></a>
+    <a href="#recursos"><img src="docs/assets/readme/link-features.svg" alt="Recursos" /></a>
+    <a href="#executando-localmente"><img src="docs/assets/readme/link-run.svg" alt="Executar" /></a>
+    <a href="#estrutura-do-projeto"><img src="docs/assets/readme/link-structure.svg" alt="Estrutura" /></a>
+    <a href="#qualidade-e-seguranca"><img src="docs/assets/readme/link-quality.svg" alt="Qualidade" /></a>
   </p>
 </div>
 
