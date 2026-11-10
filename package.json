@@ -1,0 +1,12 @@
+{
+  "name": "roadmap-analise-de-dados",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/server.mjs dist",
+    "test": "node tests/storage.test.mjs && node tests/security.test.mjs && node tests/ux-principles.test.mjs",
+    "check": "node --check src/data.js && node --check src/main.js && node --check scripts/server.mjs && node --check scripts/build.mjs && node --check site.config.mjs"
+  }
+}
